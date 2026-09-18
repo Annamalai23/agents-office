@@ -1,0 +1,23 @@
+Phase 2 Audio — English Transcription
+Generated: 2026-09-15 (medium model, language=en)
+Source folder: Phase 2/Audio (3 files, total ~2m13s)
+
+---
+1) WhatsApp Ptt 2026-09-15 at 1.42.36 PM.wav (57.8s)
+---
+Since it is a company, it is a complicated task. Since it is a company, it is a task work, service related work. I have searched for leads, talked to the leads, set a call or convince the client in chat to take a project. Since it is a company, it is a task work, service related work.
+
+---
+2) WhatsApp Ptt 2026-09-15 at 1.43.32 PM.wav (48.6s)
+---
+For example, let's say it's a small server, like a small website, or a one-page website, or a one-month content calendar, try simple-simple works first, then the main task is how to talk to clients, what channel to use, give them your LinkedIn, or ask them for third-party applications, ask them what to do with it, give them tasks like this, then they will know what they are trying to do, what level they are at, and how to improve it.
+
+---
+3) WhatsApp Ptt 2026-09-15 at 1.44.02 PM.wav (27.4s)
+---
+With this, we can create a fully equipped company. If we develop this and fine tune it, we will be able to do it. Automatically, we can work in the application layer, giving only corrections and approvals.
+
+---
+Combined clean version:
+---
+It is a company task — service-related work. Search for leads, talk to leads, get on a call or convince the client in chat to take the project. Start with simple works first — e.g. a small website, one-page website, or one-month content calendar. The main task is client communication — what channel to use, share LinkedIn, ask about third-party applications, give tasks to assess their level and how to improve it. With this we can create a fully equipped company. Develop and fine-tune it to work automatically at the application layer, with only corrections and approvals needed.

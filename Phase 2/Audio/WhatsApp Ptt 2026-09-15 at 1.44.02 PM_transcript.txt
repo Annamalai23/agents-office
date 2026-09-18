@@ -1,0 +1,4 @@
+So we have created a full equipped company with this.
+We will develop it and find out what it is.
+Automatically, we can work without any other application layer,
+with only corrections and approval.
